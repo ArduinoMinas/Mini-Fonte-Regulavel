@@ -1,0 +1,8 @@
+Mini Fonte Regulável Versão 0.0.1
+R1 2 1 240
+C1 0 3 100nF IC=0
+C2 0 1 10µF IC=0
+
+.TRAN 1ms 100ms
+* .AC DEC 100 100 1MEG
+.END

@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<netlist sketch="Mini Fonte Regulável Versão 0.0.1.fzz" date="dom mar 19 15:41:27 2017">
+ <net>
+  <connector id="connector1" name="pin2">
+   <part title="Generic male header - 2 pins" label="J2" id="854873870"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part title="Generic male header - 2 pins" label="J2" id="854873871"/>
+  </connector>
+  <connector id="connector0" name="-">
+   <part title="Electrolytic Capacitor" label="C2" id="854870390"/>
+  </connector>
+  <connector id="connector0" name="-">
+   <part title="Electrolytic Capacitor" label="C2" id="854870391"/>
+  </connector>
+  <connector id="connector2" name="leg2">
+   <part title="Rotary Potentiometer (Large)" label="R2" id="854876510"/>
+  </connector>
+  <connector id="connector2" name="leg2">
+   <part title="Rotary Potentiometer (Large)" label="R2" id="854876511"/>
+  </connector>
+  <connector id="connector0" name="0">
+   <part title="Ceramic Capacitor" label="C1" id="854874750"/>
+  </connector>
+  <connector id="connector0" name="0">
+   <part title="Ceramic Capacitor" label="C1" id="854874751"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part title="Generic female header - 2 pins" label="J1" id="854873290"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part title="Generic female header - 2 pins" label="J1" id="854873291"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin1">
+   <part title="Generic male header - 2 pins" label="J2" id="854873870"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part title="Generic male header - 2 pins" label="J2" id="854873871"/>
+  </connector>
+  <connector id="connector1" name="+">
+   <part title="Electrolytic Capacitor" label="C2" id="854870390"/>
+  </connector>
+  <connector id="connector1" name="+">
+   <part title="Electrolytic Capacitor" label="C2" id="854870391"/>
+  </connector>
+  <connector id="connector1" name="Pin 1">
+   <part title="240 Ω Resistor" label="R1" id="57731"/>
+  </connector>
+  <connector id="connector1" name="Pin 1">
+   <part title="240Ω Resistor" label="R1" id="57730"/>
+  </connector>
+  <connector id="connector2" name="OUT">
+   <part title="Voltage Regulator" label="U1" id="854867981"/>
+  </connector>
+  <connector id="connector2" name="OUT">
+   <part title="Voltage Regulator" label="U1" id="854867980"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="ADJ">
+   <part title="Voltage Regulator" label="U1" id="854867981"/>
+  </connector>
+  <connector id="connector0" name="ADJ">
+   <part title="Voltage Regulator" label="U1" id="854867980"/>
+  </connector>
+  <connector id="connector1" name="wiper">
+   <part title="Rotary Potentiometer (Large)" label="R2" id="854876511"/>
+  </connector>
+  <connector id="connector1" name="wiper">
+   <part title="Rotary Potentiometer (Large)" label="R2" id="854876510"/>
+  </connector>
+  <connector id="connector0" name="Pin 0">
+   <part title="240 Ω Resistor" label="R1" id="57731"/>
+  </connector>
+  <connector id="connector0" name="Pin 0">
+   <part title="240Ω Resistor" label="R1" id="57730"/>
+  </connector>
+  <connector id="connector0" name="leg1">
+   <part title="Rotary Potentiometer (Large)" label="R2" id="854876511"/>
+  </connector>
+  <connector id="connector0" name="leg1">
+   <part title="Rotary Potentiometer (Large)" label="R2" id="854876510"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin1">
+   <part title="Generic female header - 2 pins" label="J1" id="854873291"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part title="Generic female header - 2 pins" label="J1" id="854873290"/>
+  </connector>
+  <connector id="connector1" name="1">
+   <part title="Ceramic Capacitor" label="C1" id="854874751"/>
+  </connector>
+  <connector id="connector1" name="1">
+   <part title="Ceramic Capacitor" label="C1" id="854874750"/>
+  </connector>
+  <connector id="connector1" name="IN">
+   <part title="Voltage Regulator" label="U1" id="854867981"/>
+  </connector>
+  <connector id="connector1" name="IN">
+   <part title="Voltage Regulator" label="U1" id="854867980"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="connector0">
+   <part title="Copper Fill" label="Copper Fill4" id="854896900"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="connector0">
+   <part title="Copper Fill" label="Copper Fill3" id="854896890"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="connector0">
+   <part title="Copper Fill" label="Copper Fill2" id="854896880"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="connector0">
+   <part title="Copper Fill" label="Copper Fill1" id="854896870"/>
+  </connector>
+ </net>
+</netlist>

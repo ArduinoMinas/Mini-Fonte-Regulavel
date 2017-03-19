@@ -1,0 +1,26 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Mini Fonte Regulável Versão 0.0.1
+*Date=15:40:53
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;38.2524;-16.5636;0;Bottom;Copper Fill3
+2;;THT;3.66889;-15.5336;0;Bottom;J1
+3;1.25 – 36 V;to220-adj;21.4489;-20.2961;-180;Bottom;U1
+4;240;THT;34.1489;-20.6136;-90;Bottom;R1
+5;10µF;300 mil [THT, electrolytic];46.8489;-14.2636;-90;Bottom;C2
+6;100nF;200 mil [THT, multilayer];11.2889;-15.5336;-90;Bottom;C1
+7;;THT;59.5489;-15.5336;0;Bottom;J2
+8;;;17.0942;-14.3284;0;Bottom;Copper Fill1
+9;;;33.7312;-27.3078;0;Bottom;Copper Fill2
+10;;;48.0822;-14.3284;0;Bottom;Copper Fill4
+11;;THT;23.9889;-5.3736;-90;Bottom;R2
