@@ -24,7 +24,6 @@ td {
 	font-size: smaller;
 }
 </style>
-</head>
 
 # Bill of Materials: Mini Fonte Regulável Versão 0.0.1.fzz</h1>
 
