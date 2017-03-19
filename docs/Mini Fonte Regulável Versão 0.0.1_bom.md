@@ -1,8 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Fritzing Bill of Materials</title>
+---
+title: Fritzing Bill of Materials
+---
+
 <style type="text/css">
 .meta {
 	font-size: small;
@@ -25,14 +24,16 @@ td {
 	font-size: smaller;
 }
 </style>
-</head>
 
-<body>
-<h1>Bill of Materials: Mini Fonte Regulável Versão 0.0.1.fzz</h1>
-<p class="meta">C:/Users/consu_000/workspace/Curso Arduino Minas/Mini Fonte Regulavel/schemas/Mini Fonte Regulável Versão 0.0.1.fzz</p>
-<p class="meta">domingo, março 19 2017, 15:41:13</p>
+# Bill of Materials: Mini Fonte Regulável Versão 0.0.1.fzz</h1>
 
-<h2>Assembly List</h2>
+
+Curso Arduino Minas/Mini Fonte Regulavel/schemas/Mini Fonte Regulável Versão 0.0.1.fzz
+
+domingo, março 19 2017, 15:41:13
+
+## Assembly List
+
 <table>
 
   <thead>
@@ -74,7 +75,9 @@ td {
 </tr>
   </tbody>
 </table>
-<h2>Shopping List</h2>
+
+## Shopping List
+
 <table>
   <thead>
 	<tr>
@@ -115,6 +118,6 @@ td {
 </tr>
   </tbody>
 </table>
-<p class="meta"><br/>Exported with Fritzing 0.9.3- http://fritzing.org</p>
-</body>
-</html>
+
+
+Exported with Fritzing 0.9.3- http://fritzing.org	
