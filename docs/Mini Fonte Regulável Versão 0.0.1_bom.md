@@ -28,7 +28,7 @@ td {
 # Bill of Materials: Mini Fonte Regulável Versão 0.0.1.fzz</h1>
 
 
-Curso Arduino Minas/Mini Fonte Regulavel/schemas/Mini Fonte Regulável Versão 0.0.1.fzz
+https://github.com/ArduinoMinas/Mini-Fonte-Regulavel/blob/master/schemas/Mini%20Fonte%20Regul%C3%A1vel%20Vers%C3%A3o%200.0.1.fzz
 
 domingo, março 19 2017, 15:41:13
 
